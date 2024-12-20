@@ -1,0 +1,4 @@
+D:\OPI_12LABA_WORDLE\wordle-main-menu\wordle-main-menu\x64\Debug\wordle-main-menu.vcxproj.AssemblyReference.cache
+D:\OPI_12LABA_WORDLE\wordle-main-menu\wordle-main-menu\x64\Debug\wordlemainmenu.wordle.resources
+D:\OPI_12LABA_WORDLE\wordle-main-menu\wordle-main-menu\x64\Debug\wordle-main-menu.vcxproj.GenerateResource.cache
+D:\OPI_12LABA_WORDLE\wordle-main-menu\wordle-main-menu\x64\Debug\wordlemainmenu.gameboard.resources
